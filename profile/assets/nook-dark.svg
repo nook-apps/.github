@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="312" viewBox="0 0 1200 312" role="img" aria-labelledby="title desc">
+<title id="title">Nook</title>
+<desc id="desc">Иконки приложений Shelf, Jot и Pick.</desc>
+<rect width="1200" height="312" rx="22" fill="#1b2133"/>
+<g fill="#eef1ff"><path transform="translate(56.000 205) scale(0.0634765625 -0.0634765625)" d="M188 1493H618L1161 469V1493H1526V0H1096L553 1024V0H188Z"/><path transform="translate(164.799 205) scale(0.0634765625 -0.0634765625)" d="M705 891Q586 891 523.5 805.5Q461 720 461 559Q461 398 523.5 312.5Q586 227 705 227Q822 227 884.0 312.5Q946 398 946 559Q946 720 884.0 805.5Q822 891 705 891ZM705 1147Q994 1147 1156.5 991.0Q1319 835 1319 559Q1319 283 1156.5 127.0Q994 -29 705 -29Q415 -29 251.5 127.0Q88 283 88 559Q88 835 251.5 991.0Q415 1147 705 1147Z"/><path transform="translate(254.110 205) scale(0.0634765625 -0.0634765625)" d="M705 891Q586 891 523.5 805.5Q461 720 461 559Q461 398 523.5 312.5Q586 227 705 227Q822 227 884.0 312.5Q946 398 946 559Q946 720 884.0 805.5Q822 891 705 891ZM705 1147Q994 1147 1156.5 991.0Q1319 835 1319 559Q1319 283 1156.5 127.0Q994 -29 705 -29Q415 -29 251.5 127.0Q88 283 88 559Q88 835 251.5 991.0Q415 1147 705 1147Z"/><path transform="translate(343.422 205) scale(0.0634765625 -0.0634765625)" d="M172 1556H530V709L942 1120H1358L811 606L1401 0H967L530 467V0H172Z"/></g>
+<path d="M56 257H1144" stroke="#3c455e"/>
+<path d="M56 257H136" stroke="#eaa442" stroke-width="3"/>
+<g transform="translate(666 88) scale(1.05)"><ns0:defs xmlns:ns0="http://www.w3.org/2000/svg"><ns0:linearGradient id="shelf-bg" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#34405f" stop-opacity=".92" /><ns0:stop offset="1" stop-color="#1b2133" stop-opacity=".92" /></ns0:linearGradient><ns0:linearGradient id="shelf-hl" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#fff" stop-opacity=".16" /><ns0:stop offset="1" stop-color="#fff" stop-opacity="0" /></ns0:linearGradient></ns0:defs><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4" y="4" width="120" height="120" rx="28" fill="url(#shelf-bg)" /><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M4 32a28 28 0 0 1 28-28h64a28 28 0 0 1 28 28v8c-30 10-90 10-120 0z" fill="url(#shelf-hl)" /><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4.75" y="4.75" width="118.5" height="118.5" rx="27.25" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="1.5" />
+<ns0:g xmlns:ns0="http://www.w3.org/2000/svg">
+<ns0:rect x="30" y="34" width="18" height="52" rx="3" fill="#9fb3ff" />
+<ns0:rect x="30" y="41" width="18" height="3" fill="#1b2133" opacity=".25" />
+<ns0:rect x="30" y="76" width="18" height="3" fill="#1b2133" opacity=".25" />
+<ns0:rect x="34" y="52" width="10" height="13" rx="1.5" fill="#fff" opacity=".4" />
+<ns0:rect x="52" y="45" width="13" height="41" rx="3" fill="#d3dcff" />
+<ns0:rect x="52" y="51" width="13" height="2.5" fill="#1b2133" opacity=".2" />
+<ns0:rect x="52" y="78" width="13" height="2.5" fill="#1b2133" opacity=".2" />
+<ns0:g transform="rotate(14 86 86)">
+<ns0:rect x="71" y="38" width="15" height="48" rx="3" fill="#6d8bff" />
+<ns0:rect x="71" y="45" width="15" height="2.5" fill="#1b2133" opacity=".25" />
+<ns0:rect x="71" y="77" width="15" height="2.5" fill="#1b2133" opacity=".25" />
+</ns0:g>
+<ns0:rect x="22" y="86" width="84" height="7" rx="3.5" fill="#eef1ff" />
+<ns0:path d="M32 93h10L32 103z M86 93h10L96 103z" fill="#8f9bc4" />
+</ns0:g></g><g transform="translate(828 88) scale(1.05)"><ns0:defs xmlns:ns0="http://www.w3.org/2000/svg"><ns0:linearGradient id="jot-bg" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#34405f" stop-opacity=".92" /><ns0:stop offset="1" stop-color="#1b2133" stop-opacity=".92" /></ns0:linearGradient><ns0:linearGradient id="jot-hl" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#fff" stop-opacity=".16" /><ns0:stop offset="1" stop-color="#fff" stop-opacity="0" /></ns0:linearGradient></ns0:defs><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4" y="4" width="120" height="120" rx="28" fill="url(#jot-bg)" /><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M4 32a28 28 0 0 1 28-28h64a28 28 0 0 1 28 28v8c-30 10-90 10-120 0z" fill="url(#jot-hl)" /><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4.75" y="4.75" width="118.5" height="118.5" rx="27.25" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="1.5" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="24" width="60" height="80" rx="6" fill="#eef1ff" />
+<ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M70 24h12a6 6 0 0 1 6 6v12z" fill="#c9d0ee" />
+<ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="36" y="47" font-family="DejaVu Sans Mono,monospace" font-weight="bold" font-size="17" fill="#8b5cf6">#</ns0:text>
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="50" y="36" width="24" height="5" rx="2.5" fill="#1b2133" opacity=".55" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="36" y="56" width="42" height="3.5" rx="1.75" fill="#1b2133" opacity=".3" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="36" y="64" width="36" height="3.5" rx="1.75" fill="#1b2133" opacity=".3" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="36" y="72" width="40" height="3.5" rx="1.75" fill="#1b2133" opacity=".3" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="36" y="80" width="22" height="3.5" rx="1.75" fill="#1b2133" opacity=".3" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="60" y="78" width="3" height="8" rx="1" fill="#8b5cf6" />
+<ns0:g xmlns:ns0="http://www.w3.org/2000/svg" transform="rotate(32 92 78)">
+<ns0:rect x="85" y="40" width="14" height="50" rx="3" fill="#b48cff" />
+<ns0:rect x="85" y="40" width="14" height="8" rx="3" fill="#8b5cf6" />
+<ns0:rect x="85" y="78" width="14" height="3" fill="#1b2133" opacity=".25" />
+<ns0:path d="M85 90h14l-7 13z" fill="#f2e6ff" />
+<ns0:path d="M89.6 98.6h4.8L92 103z" fill="#1b2133" opacity=".8" />
+</ns0:g></g><g transform="translate(990 88) scale(1.05)"><ns0:defs xmlns:ns0="http://www.w3.org/2000/svg"><ns0:linearGradient id="pick-bg" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#34405f" stop-opacity=".92" /><ns0:stop offset="1" stop-color="#1b2133" stop-opacity=".92" /></ns0:linearGradient><ns0:linearGradient id="pick-hl" x1="0" y1="0" x2="0" y2="1"><ns0:stop offset="0" stop-color="#fff" stop-opacity=".16" /><ns0:stop offset="1" stop-color="#fff" stop-opacity="0" /></ns0:linearGradient></ns0:defs><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4" y="4" width="120" height="120" rx="28" fill="url(#pick-bg)" /><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M4 32a28 28 0 0 1 28-28h64a28 28 0 0 1 28 28v8c-30 10-90 10-120 0z" fill="url(#pick-hl)" /><ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4.75" y="4.75" width="118.5" height="118.5" rx="27.25" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="1.5" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="26" y="28" width="62" height="18" rx="5" fill="#d3dcff" opacity=".5" />
+<ns0:circle xmlns:ns0="http://www.w3.org/2000/svg" cx="36" cy="37" r="3.5" fill="#1b2133" opacity=".35" />
+<ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="26" y="82" width="62" height="18" rx="5" fill="#d3dcff" opacity=".5" />
+<ns0:circle xmlns:ns0="http://www.w3.org/2000/svg" cx="36" cy="91" r="3.5" fill="#1b2133" opacity=".35" />
+<ns0:g xmlns:ns0="http://www.w3.org/2000/svg" transform="rotate(-7 72 64)">
+<ns0:rect x="40" y="54" width="64" height="20" rx="5" fill="#5fd39a" />
+<ns0:path d="M49 64l5 5 9-10" fill="none" stroke="#14301f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+<ns0:rect x="70" y="62" width="26" height="4" rx="2" fill="#14301f" opacity=".35" />
+</ns0:g></g>
+</svg>
